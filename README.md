@@ -61,6 +61,9 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
-"# SIMRS"
+
+"SIMRS"
 Rule..
-untuk cabanga producntion diberinama develop. Semua team akan mendapatkan updating code di cabang develop.Selanjutnya Jika coding fix maka akan di masukan ke branch main.
+untuk cabang Production di berinama develop.
+Semua team akan mendapatkan updating code di cabang develop.
+Selanjutnya Jika coding fix maka akan di masukan ke branch main.
