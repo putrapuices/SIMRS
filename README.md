@@ -62,12 +62,8 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
-Testing Febri : - Latihan untuk ubah README
-
 "SIMRS"
 Rule..
 untuk cabang Production di berinama develop.
 Semua team akan mendapatkan updating code di cabang develop.
 Selanjutnya Jika coding fix maka akan di masukan ke branch main.
-
-Testing Febri : - Latihan untuk ubah README
