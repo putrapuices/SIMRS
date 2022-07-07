@@ -64,6 +64,19 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 "SIMRS"
 Rule..
+
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+Merubah text testing,, Percobaan pertama
+
 untuk cabang Production di berinama develop.
 Semua team akan mendapatkan updating code di cabang develop.
 Selanjutnya Jika coding fix maka akan di masukan ke branch main.
@@ -71,3 +84,4 @@ Selanjutnya Jika coding fix maka akan di masukan ke branch main.
 Update Febri :
 
 - Test ubah README
+
