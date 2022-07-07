@@ -67,3 +67,4 @@ Rule..
 untuk cabang Production di berinama develop.
 Semua team akan mendapatkan updating code di cabang develop.
 Selanjutnya Jika coding fix maka akan di masukan ke branch main.
+Tim IT RSUD Pariaman.
