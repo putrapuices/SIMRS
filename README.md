@@ -67,3 +67,8 @@ Rule..
 untuk cabang Production di berinama develop.
 Semua team akan mendapatkan updating code di cabang develop.
 Selanjutnya Jika coding fix maka akan di masukan ke branch main.
+My Team :
+1. Rahmat Putra
+2. Febri Ramanda
+3. Muslim Suki
+
