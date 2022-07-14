@@ -24,8 +24,10 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost:8080/';
-
+    public $baseURL = BASE;
+    // public $baseURL = 'http://localhost:8080/';
+    // public $baseURL = 'http://simrs.me/';
+    
     /**
      * --------------------------------------------------------------------------
      * Index File
