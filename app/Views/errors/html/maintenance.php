@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>404 Page Not Found</title>
+    <title>Maintenance</title>
 
     <style>
         div.logo {
@@ -80,17 +80,9 @@
 
 <body>
     <div class="wrap">
-        <h1>404 - File Not Found</h1>
+        <h1>Maintenance</h1>
 
-        <p>
-            <?php if (!empty($message) && $message !== '(null)') : ?>
-                <?= nl2br(esc($message)) ?>
-            <?php else : ?>
-                Maaf! Sepertinya tidak dapat menemukan halaman yang Anda cari.
-            <?php endif ?>
-        </p>
-
-        <img src="<?= base_url('dist/img/error/404.png') ?>" alt="404" style="max-width: 100%; height: auto;">
+        <img src="<?= base_url('dist/img/error/maintenance.png') ?>" alt="maintenance" style="max-width: 100%; height: auto;">
     </div>
 </body>
 
