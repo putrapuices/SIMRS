@@ -82,9 +82,7 @@ untuk cabang Production di berinama develop.
 Semua team akan mendapatkan updating code di cabang develop.
 Selanjutnya Jika coding fix maka akan di masukan ke branch main.
 
-Update Febri :
+Update Dari Febri Ramandha:
 
 - Test ubah README
 
-
-Testing 4
