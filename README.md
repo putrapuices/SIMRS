@@ -62,6 +62,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
+Testing 2
 "SIMRS"
 Rule..
 
@@ -84,3 +85,4 @@ Selanjutnya Jika coding fix maka akan di masukan ke branch main.
 Update Dari Febri Ramandha:
 
 - Test ubah README
+
